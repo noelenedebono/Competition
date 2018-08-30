@@ -1,0 +1,39 @@
+.jumbotron {
+  background-image: url('../pics/health.png');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 500px;
+}
+
+  .btn-twitter {
+    background: #00acee;
+    border-color: #009ad5;
+  }
+.btn-facebook {
+    background: #4868ac;
+    border-color: #314776;
+  }
+.btn-other-languages {
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+  }
+.btn-instagram {
+  background:#b62f26;
+  border-color:#b62f26;
+}
+.btn-contact-us {
+  background:#ff0a33;
+  border-color: #ff0a33;
+}
+
+blockquote {
+  border: 1px solid #999;
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
+}
+
+h1 {
+  padding: 150px;
+}
